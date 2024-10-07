@@ -1,0 +1,55 @@
+.App{
+  background-color: #344151;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 20px;
+  
+}
+
+h2{
+  color: #0398d4;
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.main{
+
+  
+  background-color:white;
+  display: flex;
+  padding:5px
+  
+  
+  
+
+}
+
+
+.btnT{
+  cursor: pointer;
+}
+
+.box{
+ 
+  font-weight: bold;
+  color:black;
+  padding: 15px;
+  border-right: 1px solid black;
+  font-size:larger ;
+
+}
+
+.boxright{
+  font-weight: bold;
+  color:black;
+  padding: 15px;
+  font-size:larger ;
+}
